@@ -1229,19 +1229,6 @@
       "url": "https://github.com/enmity-mod" 
     },
     {
-      "name": "Enmity",
-      "bundleIdentifier": "com.hammerandchisel.discord",
-      "subtitle": "Enmity - The power of addons, all in your hand.",
-      "developerName": "enmity-mod",
-      "version": "2.2.6",
-      "date": "2024-10-27",
-      "downloadURL": "https://ipa.omnidev.org/api/file/77f71ce2-715f-4e03-8dbc-b2b744e5de7d/download",
-      "localizedDescription": "Enhance your Discord mobile experience with Enmity, boasting an extensive ecosystem of addons. \nAccess a plethora of plugins and themes to personalize your interface, tailor features to your preferences, and unlock new functionalities seamlessly on the go.\nStatus: ✅🔥",
-      "description": "Enhance your Discord mobile experience with Enmity, boasting an extensive ecosystem of addons. \nAccess a plethora of plugins and themes to personalize your interface, tailor features to your preferences, and unlock new functionalities seamlessly on the go.\nStatus: ✅🔥",
-      "iconURL": "https://storage.omnidev.org/enmity-qy.png",
-      "size": 103346176
-    },
-    {
       "name": "Apollo for Reddit",
       "bundleIdentifier": "com.christianselig.Apollo",
       "developerName": "Christian Selig",
