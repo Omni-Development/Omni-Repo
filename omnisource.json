@@ -1,52 +1,35 @@
 {
     "name": "Omni-Development Source",
-    "subtitle": "The oFficial Omni Development Source",
-    "description": "Welcome to the official Omni-Development Source! \nMaintained by the Omni Development Team.",
+    "identifier": "omni.dev.source",
     "iconURL": "https://github.com/Omni-Development/Omni-Source/blob/main/images/repoicon.png?raw=true",
     "headerURL": "https://github.com/Omni-Development/Omni-Source/blob/main/images/repoheader.png?raw=true",
-    "website": "https://github.com/Omni-Development",
-    "tintColor": "#940646",
+    "website": "https://github.com/Omni-Development/",
+    "patreonURL": "https://www.patreon.com/c/Realmzer",
+    "subtitle": "The official Omni-Development Source!",
+    "description": "Welcome to the official Omni-Development Source! \nMaintained by the Omni Development Team.\n Status:\n✅ = Working\n❌ = Not Working or discontinued\n✨ = Tweak\n❔ = Unknown if its still getting updates or source doesn't exist\n🔵 = TrollStore only\n💸 = Paid Tweak, not Cracked\n🔥 = Recommended by Developer(s)\n🌟= Premium features unlocked",
+    "tintColor": "940646",
     "featuredApps": [
-        "com.example.myapp"
     ],
     "apps": [
-        {
-            "name": "My Example App",
-            "bundleIdentifier": "com.example.myapp",
-            "developerName": "Example Developer",
-            "subtitle": "An awesome app.",
-            "localizedDescription": "This is an awesome app only available on AltStore.",
-            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
-            "tintColor": "#5CA399",
-            "versions": [
-                {
-                    "version": "1.1",
-                    "date": "2022-05-01T09:00:00-08:00",
-                    "size": 20000000,
-                    "downloadURL": "https://example.com/myapp_v1.1.ipa",
-                    "localizedDescription": "New features and bug fixes.",
-                    "minOSVersion": "12.0"
-                },
-                {
-                    "version": "1.0",
-                    "date": "2022-03-16T07:00:00-08:00",
-                    "size": 10000000,
-                    "downloadURL": "https://example.com/myapp_v1.0.ipa",
-                    "localizedDescription": "Initial release."
-                }
-            ]
-        }
+      {
+        "beta": false,
+        "name": "ESign No Logs",
+        "bundleIdentifier": "p3.xyz.yyyue.esign",
+        "subtitle": "ESign No Logs - ESign With No Logs",
+        "description": "Easily sideload with no computer, no revokes, unlimited app days and, no telemetry.\nStatus: ✅",
+        "localizedDescription": "Easily sideload with no computer, no revokes, unlimited app days and, no telemetry.\nStatus: ✅",
+        "developerName": "u/Sharp_Listen3436 & yyy",
+        "iconURL": "https://github.com/Omni-Development/Omni-Source/blob/main/images/esign.png?raw=true",
+        "tintColor": "4894ee",
+        "category": "utilities",
+        "size": 7245924,
+        "version": "5.0.2",
+        "versionDate": "2024-10-30",
+        "downloadURL": "https://github.com/Omni-Development/Omni-Source/releases/download/IPA/ESign-V5.0.2-No-Logs.ipa",
+        "appPermissions": {},
+        "title": "ESign No Logs",
+        "url": "https://www.reddit.com/r/sideloaded/comments/1dliije/esign_v502_no_logs/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" 
+      }
     ],
-    "news": [
-        {
-            "title": "Debut of the Omni-Development Project",
-            "identifier": "debut_omnidevproject",
-            "caption": "Introducing, the Omni-Development Project.",
-            "date": "2024-10-30",
-            "tintColor": "#940646",
-            "imageURL": "https://example.com/new_feature_image.png",
-            "notify": true,
-            "url": "https://example.com/new_feature_details"
-        }
-    ]
-}
+    "news": []
+  }
