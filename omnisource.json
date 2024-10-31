@@ -2,8 +2,8 @@
     "name": "Omni-Development Source",
     "subtitle": "The oFficial Omni Development Source",
     "description": "Welcome to the official Omni-Development Source! \nMaintained by the Omni Development Team.",
-    "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
-    "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
+    "iconURL": "https://github.com/Omni-Development/Omni-Source/blob/main/images/repoicon.png",
+    "headerURL": "https://github.com/Omni-Development/Omni-Source/blob/main/images/repoheader.png",
     "website": "https://github.com/Omni-Development",
     "tintColor": "#940646",
     "featuredApps": [
