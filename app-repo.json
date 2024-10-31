@@ -1,10 +1,10 @@
 {
     "name": "Omni IPA Repo",
-    "identifier": "Filipino.And.Realmzr",
+    "identifier": "Omni-Ipa-Repo",
     "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/Filipino-Repo-Images/refs/heads/main/Untitled_design.png",
     "patreonURL": "https://www.patreon.com/c/Realmzer",
     "subtitle": "The official Omni IPA Repository!",
-    "description": "A Combination of the Filipino Repo and the Realmzer Repo! \n\nStatus Icon Meanings:\n✅: Working\n🌟: Premium Features Unlocked\n💸: Paid Tweak, not Cracked\n🔥: Join the Discord: https://discord.gg/qNHu2QEhJj",
+    "description": "A Combination of the Filipino Repo and the Realmzer Repo! \n\nStatus Icon Legend:\n✅ = Working\n❌ = Not Working or discontinued\n✨ = Tweak\n❔ = Unknown if its still getting updates or source doesn't exist\n🔵 = TrollStore only\n💸 = Paid Tweak, not Cracked\n🔥 = Recommended by Developer(s)\n🌟= Premium features unlocked\nJoin the Discord: https://discord.gg/qNHu2QEhJj",
     "tintColor": "7400ff",
     "featuredApps": [
       "com.box.hd.flix.drama.hub",
