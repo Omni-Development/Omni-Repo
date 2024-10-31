@@ -1203,14 +1203,14 @@
       "subtitle": "CapCut with MOST premium features unlocked!"
     },
     {
-      "name": "Discord Emnity",
+      "name": "Emnity",
       "bundleIdentifier": "com.hammerandchisel.discord",
       "developerName": "Emnity Development Team",
-      "version": "Newest",
+      "version": "2.2.6",
       "versionDate": "2024-09-21",
       "downloadURL": "https://ipa.omnidev.org/api/file/77f71ce2-715f-4e03-8dbc-b2b744e5de7d/download",
       "localizedDescription": "A tweak for Discord allowing plugins. Inferior to Bunny, but Bunny will become outdated as it's development was ended. Link auto-updates to the newest version!\n\nStatus: ✅🌟🔥",
-      "iconURL": "https://enmity.unbound.rip/assets/icon.webp",
+      "iconURL": "https://storage.omnidev.org/enmity-qy.png",
       "size": 136314880,
       "subtitle": "A tweak for Discord allowing plugins!"
     },
