@@ -1549,6 +1549,19 @@
       "downloadURL": "https://assets.sonicrunners.com/srr224.ipa",
       "localizedDescription": "A revival of the mobile game 'Sonic Runners'\n\nStatus: ✅🔥",
       "versionDate": "2024-10-27"
+    },
+    {
+      "beta": false,
+      "name": "FlyCast",
+      "bundleIdentifier": "com.flyinghead.Flycast",
+      "subtitle": "Dreamcast Emulator",
+      "developerName": "FlyingHead",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVNQvSt7Bpn6JXFC3PoJ9bYSaHyvw_3ypz-Q&s",
+      "version": "2.4.0",
+      "size": 7885887,
+      "downloadURL": "https://github.com/Omni-Development/The-Omni-Repository/releases/download/IPA/Flycast-2.4.ipa",
+      "localizedDescription": "Dreamcast Emulator that requires JIT\n\nStatus: ✅🔥",
+      "versionDate": "2024-10-31"
     }
     ],
     "news": []
