@@ -840,10 +840,10 @@
     "iconURL": "https://storage.omnidev.org/feather-au.png",
     "tintColor": "848ef9",
     "category": "utilities",
-    "version" : "1.0.5",
+    "version" : "1.1.2",
     "versionDate" : "2024-10-30",
-    "downloadURL": "https://ipa.omnidev.org/api/file/cb2bdc93-a3cc-481e-81a9-da8d0c5fa542/download",
-    "size": 12375230,
+    "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.1.2/feather_v1.1.2.ipa",
+    "size": 13107200,
     "title": "Feather",
     "url": "https://github.com/khcrysalis/Feather/",
     "versions" : [
