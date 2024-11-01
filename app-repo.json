@@ -145,7 +145,7 @@
       "size": 247910400,
       "version": "1.2",
       "versionDate": "2024-10-14",
-      "downloadURL": "hhttps://ipa.omnidev.org/api/file/40044556-ae55-44ea-b6f4-472b88fffad2/download",
+      "downloadURL": "https://ipa.omnidev.org/api/file/40044556-ae55-44ea-b6f4-472b88fffad2/download",
       "title": "Undertale Yellow",
       "url": "https://gamejolt.com/games/UndertaleYellow/136925" 
     },
@@ -951,7 +951,7 @@
     "subtitle": "Run iOS app without actually installing it!",
     "description": "Run iOS app without actually installing it!\nStatus: ✅🔥",
     "localizedDescription": " Run iOS app without actually installing it!\nStatus: ✅🔥",
-    "iconURL": "hhttps://storage.omnidev.org/livecontainer-ZM.png",
+    "iconURL": "https://storage.omnidev.org/livecontainer-ZM.png",
     "tintColor": "0784fc",
     "category": "utilities",
     "version": "2.1.2",
