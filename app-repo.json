@@ -1055,6 +1055,32 @@
   },
   {
     "beta": false,
+    "name" : "Fortnite",
+    "bundleIdentifier": "org.epicgames.FortniteGame",
+    "developerName" : "Epic Games",
+    "subtitle": "Fortnite - Funny shooter game",
+    "description": "Create, play, and battle with friends for free in Fortnite. Be the last player standing in Battle Royale and Zero Build, experience a concert or live event, or discover over a million creator made games, including racing, parkour, zombie survival, and more.\nEach Fortnite island has an individual age rating so you can find the one that's right for you and your friends. \nFind it all in Fortnite ... Drop In.\nStatus: ✅",
+    "localizedDescription": "Create, play, and battle with friends for free in Fortnite. Be the last player standing in Battle Royale and Zero Build, experience a concert or live event, or discover over a million creator made games, including racing, parkour, zombie survival, and more.\nEach Fortnite island has an individual age rating so you can find the one that's right for you and your friends. \nFind it all in Fortnite ... Drop In.\nStatus: ✅",
+    "iconURL": "https://storage.omnidev.org/Fortnite_Main-Mj.png",
+    "tintColor": "b036e6",
+    "category": "games",
+    "version": "31.41",
+    "versionDate" : "2024-11-01",
+    "downloadURL": "https://ipa.omnidev.org/api/file/2118158e-b83f-4757-86cd-fc75fbdb7358/download",
+    "size": 266780672,
+    "title": "Fortnite",
+    "url": "https://epicgames.com",
+    "versions" : [
+      {
+        "version": "31.41",
+        "date" : "2024-11-01",
+        "downloadURL": "https://ipa.omnidev.org/api/file/2118158e-b83f-4757-86cd-fc75fbdb7358/download",
+        "size": 266780672
+      }
+    ]
+  },
+  {
+    "beta": false,
     "name" : "Geometry Dash",
     "bundleIdentifier": "com.robtop.geometryjump",
     "developerName" : "RobTop Games AB",
