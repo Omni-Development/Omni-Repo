@@ -584,7 +584,7 @@
     {
       "beta": false,
       "name": "Friday Night Funkin: Psych Engine 1.0",
-      "bundleIdentifier": "com.shadowmario.psychengine10",
+      "bundleIdentifier": "com.shadowmario.psychengine",
       "subtitle": "Psych Engine: Open Source FNF Engine",
       "description": "Friday Night Funkin' Engine originally used on Mind Games Mod, intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it.\nAlso aiming to be an easier alternative to newbie coders\nStatus: ✅",
       "localizedDescription": "Friday Night Funkin' Engine originally used on Mind Games Mod, intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it.\nAlso aiming to be an easier alternative to newbie coders\nStatus: ✅",
