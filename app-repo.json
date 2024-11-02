@@ -840,10 +840,10 @@
     "iconURL": "https://storage.omnidev.org/feather-au.png",
     "tintColor": "848ef9",
     "category": "utilities",
-    "version" : "1.1.2",
-    "versionDate" : "2024-11-01",
-    "downloadURL": "https://ipa.omnidev.org/api/file/7042c246-90d5-4cca-8a74-e4fd19dda592/download",
-    "size": 13107200,
+    "version" : "1.1.3",
+    "versionDate" : "2024-11-02",
+    "downloadURL": "https://ipa.omnidev.org/api/file/91d341fa-cc75-47d0-b340-88133528492d/download",
+    "size": 12496896,
     "title": "Feather",
     "url": "https://github.com/khcrysalis/Feather/",
     "versions" : [
@@ -858,6 +858,12 @@
         "date" : "2024-11-01",
         "downloadURL": "https://ipa.omnidev.org/api/file/7042c246-90d5-4cca-8a74-e4fd19dda592/download",
         "size": 13107200
+      },
+      {
+        "version" : "1.1.3",
+        "date" : "2024-11-02",
+        "downloadURL": "https://ipa.omnidev.org/api/file/91d341fa-cc75-47d0-b340-88133528492d/download",
+        "size": 12496896
       }
     ]
   },
@@ -899,6 +905,24 @@
   },
   {
     "beta": false,
+    "name" : "Feather v1.1.3",
+    "bundleIdentifier": "kh.crysalis.feather113",
+    "developerName" : "Samara",
+    "subtitle": "On-device signing application",
+    "description": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\nStatus: ✅🔥",
+    "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\nStatus: ✅🔥",
+    "iconURL": "https://storage.omnidev.org/feather-au.png",
+    "tintColor": "848ef9",
+    "category": "utilities",
+    "version" : "1.1.3",
+    "versionDate" : "2024-11-02",
+    "downloadURL": "https://ipa.omnidev.org/api/file/91d341fa-cc75-47d0-b340-88133528492d/download",
+    "size": 12496896,
+    "title": "Feather v1.1.3",
+    "url": "https://github.com/khcrysalis/Feather/"
+  },
+  {
+    "beta": false,
     "name" : "Feather (TrollStore)",
     "bundleIdentifier": "kh.crysalis.featherts",
     "developerName" : "Samara",
@@ -908,10 +932,10 @@
     "iconURL": "https://storage.omnidev.org/feather-au.png",
     "tintColor": "848ef9",
     "category": "utilities",
-    "version" : "1.1.2",
-    "versionDate" : "2024-10-30",
-    "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.1.2/feather_v1.1.2.tipa",
-    "size": 12375230,
+    "version" : "1.1.3",
+    "versionDate" : "2024-11-02",
+    "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.1.3/feather_v1.1.3.tipa",
+    "size": 12496896,
     "title": "Feather (TrollStore)",
     "url": "https://github.com/khcrysalis/Feather/",
     "versions" : [
@@ -926,6 +950,12 @@
         "date" : "2024-11-01",
         "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.1.2/feather_v1.1.2.tipa",
         "size": 13107200
+      },
+      {
+        "version" : "1.1.3",
+        "date" : "2024-11-02",
+        "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.1.3/feather_v1.1.3.tipa",
+        "size": 12496896
       }
     ]
   },
@@ -963,6 +993,24 @@
     "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.1.2/feather_v1.1.2.tipa",
     "size": 13107200,
     "title": "Feather (TrollStore) v1.1.2",
+    "url": "https://github.com/khcrysalis/Feather/"
+  },
+  {
+    "beta": false,
+    "name" : "Feather (TrollStore) v1.1.3",
+    "bundleIdentifier": "kh.crysalis.featherts113",
+    "developerName" : "Samara",
+    "subtitle": "On-device signing application",
+    "description": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\nStatus: ✅🔥🔵",
+    "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\nStatus: ✅🔥🔵",
+    "iconURL": "https://storage.omnidev.org/feather-au.png",
+    "tintColor": "848ef9",
+    "category": "utilities",
+    "version" : "1.1.3",
+    "versionDate" : "2024-11-01",
+    "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.1.3/feather_v1.1.3.tipa",
+    "size": 12496896,
+    "title": "Feather (TrollStore) v1.1.3",
     "url": "https://github.com/khcrysalis/Feather/"
   },
   {
