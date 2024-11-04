@@ -111,6 +111,32 @@
     },
     {
       "beta": false,
+      "name" : "LogRide",
+      "bundleIdentifier": "com.parksman.LogRide",
+      "developerName" : "PARKWIDE LLC",
+      "subtitle": "LogRide - Largest theme park database",
+      "description": "Discover the must-have app for theme park fans, coaster nerds, and thrill seekers! LogRide is a mobile companion for tracking your park experiences and gateway into park history, attraction stats, and loads of other amazing features.\nStatus: ✅",
+      "localizedDescription": "Discover the must-have app for theme park fans, coaster nerds, and thrill seekers! LogRide is a mobile companion for tracking your park experiences and gateway into park history, attraction stats, and loads of other amazing features.\nStatus: ✅",
+      "iconURL": "https://storage.omnidev.org/logride-aP.png",
+      "tintColor": "68b547",
+      "category": "utilities",
+      "version" : "6.9.4",
+      "versionDate" : "2024-11-04",
+      "downloadURL": "https://storage.omnidev.org/com_parksman_Log_Ride_6_9_4-iF.ipa",
+      "size": 24649728,
+      "title": "LogRide",
+      "url": "https://logrideapp.com/",
+      "versions" : [
+        {
+          "version" : "6.9.4",
+          "date" : "2024-11-04",
+          "downloadURL": "https://storage.omnidev.org/com_parksman_Log_Ride_6_9_4-iF.ipa",
+          "size": 24649728
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name": "Deltarune",
       "bundleIdentifier": "com.jockelholm.undertaledr",
       "subtitle": "Deltarune - IOS Port",
@@ -1126,10 +1152,10 @@
     "iconURL": "https://storage.omnidev.org/Fortnite_Main-Mj.png",
     "tintColor": "b036e6",
     "category": "games",
-    "version": "31.41",
-    "versionDate" : "2024-11-01",
-    "downloadURL": "https://ipa.omnidev.org/api/file/2118158e-b83f-4757-86cd-fc75fbdb7358/download",
-    "size": 266780672,
+    "version": "32.00",
+    "versionDate" : "2024-11-04",
+    "downloadURL": "https://storage.omnidev.org/Fortnite_32_00-Mi.ipa",
+    "size": 251158528,
     "title": "Fortnite",
     "url": "https://epicgames.com",
     "versions" : [
@@ -1138,6 +1164,12 @@
         "date" : "2024-11-01",
         "downloadURL": "https://ipa.omnidev.org/api/file/2118158e-b83f-4757-86cd-fc75fbdb7358/download",
         "size": 266780672
+      },
+      {
+        "version": "32.00",
+        "date" : "2024-11-04",
+        "downloadURL": "https://storage.omnidev.org/Fortnite_32_00-Mi.ipa",
+        "size": 251158528
       }
     ]
   },
