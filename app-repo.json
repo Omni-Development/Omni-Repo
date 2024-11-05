@@ -810,6 +810,50 @@
     },
     {
       "beta": false,
+      "name" : "Swiftgram",
+      "bundleIdentifier": "app.swiftgram.ios",
+      "developerName" : "Akentech Ltd",
+      "subtitle": "Swiftgram - Telegram for iOS Supercharged",
+      "description": "Supercharged Telegram experience — unlocked, feature-rich, secure messaging.\nStatus: ✅🔥",
+      "localizedDescription": "Supercharged Telegram experience — unlocked, feature-rich, secure messaging.\nStatus: ✅🔥",
+      "iconURL": "https://storage.omnidev.org/swiftgram-we.png",
+      "tintColor": "f56d3e",
+      "category": "social",
+      "version": "11.2",
+      "versionDate" : "2024-11-05",
+      "downloadURL": "https://storage.omnidev.org/app_swiftgram_ios_11_2-a4.ipa",
+      "size": 73510912,
+      "title": "Swiftgram",
+      "url": "https://swiftgram.app/"
+    },
+    {
+      "beta": false,
+      "name" : "Swiftgram",
+      "bundleIdentifier": "app.swiftgram.ios",
+      "developerName" : "Akentech Ltd",
+      "subtitle": "Swiftgram - Telegram for iOS Supercharged",
+      "description": "Supercharged Telegram experience — unlocked, feature-rich, secure messaging.\nStatus: ✅🔥",
+      "localizedDescription": "Supercharged Telegram experience — unlocked, feature-rich, secure messaging.\nStatus: ✅🔥",
+      "iconURL": "https://storage.omnidev.org/swiftgram-we.png",
+      "tintColor": "f56d3e",
+      "category": "social",
+      "version": "11.2",
+      "versionDate" : "2024-11-05",
+      "downloadURL": "https://storage.omnidev.org/app_swiftgram_ios_11_2-a4.ipa",
+      "size": 73510912,
+      "title": "Swiftgram",
+      "url": "https://swiftgram.app/",
+      "versions" : [
+        {
+          "version": "11.2",
+          "date" : "2024-11-05",
+          "downloadURL": "https://storage.omnidev.org/app_swiftgram_ios_11_2-a4.ipa",
+          "size": 73510912
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "EeveeSpotify",
       "bundleIdentifier": "com.spotify.client",
       "developerName" : "whoeevee",
