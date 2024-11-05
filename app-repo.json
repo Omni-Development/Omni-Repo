@@ -137,6 +137,58 @@
     },
     {
       "beta": false,
+      "name" : "UTM",
+      "bundleIdentifier": "com.utmapp.UTM",
+      "developerName" : "utmapp",
+      "subtitle": "UTM - Run virtual machines on iOS",
+      "description": "UTM is a full featured system emulator and virtual machine host for iOS and macOS. It is based off of QEMU. In short, it allows you to run Windows, Linux, and more on your Mac, iPhone, and iPad. More information at https://getutm.app/ and https://mac.getutm.app/\nStatus: ✅",
+      "localizedDescription": "UTM is a full featured system emulator and virtual machine host for iOS and macOS. It is based off of QEMU. In short, it allows you to run Windows, Linux, and more on your Mac, iPhone, and iPad. More information at https://getutm.app/ and https://mac.getutm.app/\nStatus: ✅",
+      "iconURL": "https://storage.omnidev.org/utm-mo.png",
+      "tintColor": "1a3cc9",
+      "category": "utilities",
+      "version" : "4.5.4",
+      "versionDate" : "2024-11-04",
+      "downloadURL": "https://storage.omnidev.org/UTM-01.ipa",
+      "size": 122064896,
+      "title": "UTM",
+      "url": "https://getutm.app/",
+      "versions" : [
+        {
+          "version" : "4.5.4",
+          "date" : "2024-11-04",
+          "downloadURL": "https://storage.omnidev.org/UTM-01.ipa",
+          "size": 122064896
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "UTM SE",
+      "bundleIdentifier": "com.utmapp.UTM-SE",
+      "developerName" : "utmapp",
+      "subtitle": "UTM SE - Run virtual machines on iOS just a bit slower",
+      "description": "UTM is a full featured system emulator and virtual machine host for iOS and macOS. It is based off of QEMU. In short, it allows you to run Windows, Linux, and more on your Mac, iPhone, and iPad. More information at https://getutm.app/ and https://mac.getutm.app/\nStatus: ✅",
+      "localizedDescription": "UTM is a full featured system emulator and virtual machine host for iOS and macOS. It is based off of QEMU. In short, it allows you to run Windows, Linux, and more on your Mac, iPhone, and iPad. More information at https://getutm.app/ and https://mac.getutm.app/\nStatus: ✅",
+      "iconURL": "https://storage.omnidev.org/utm-mo.png",
+      "tintColor": "1a3cc9",
+      "category": "utilities",
+      "version" : "4.5.4",
+      "versionDate" : "2024-11-04",
+      "downloadURL": "https://storage.omnidev.org/UTM_SE-QQ.ipa",
+      "size": 217464832,
+      "title": "UTM SE",
+      "url": "https://getutm.app/",
+      "versions" : [
+        {
+          "version" : "4.5.4",
+          "date" : "2024-11-04",
+          "downloadURL": "https://storage.omnidev.org/UTM_SE-QQ.ipa",
+          "size": 217464832
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name": "Deltarune",
       "bundleIdentifier": "com.jockelholm.undertaledr",
       "subtitle": "Deltarune - IOS Port",
@@ -959,98 +1011,6 @@
     "downloadURL": "https://ipa.omnidev.org/api/file/91d341fa-cc75-47d0-b340-88133528492d/download",
     "size": 12496896,
     "title": "Feather v1.1.3",
-    "url": "https://github.com/khcrysalis/Feather/"
-  },
-  {
-    "beta": false,
-    "name" : "Feather (TrollStore)",
-    "bundleIdentifier": "kh.crysalis.featherts",
-    "developerName" : "Samara",
-    "subtitle": "On-device signing application",
-    "description": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\nStatus: ✅🔥🔵",
-    "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\nStatus: ✅🔥🔵",
-    "iconURL": "https://storage.omnidev.org/feather-au.png",
-    "tintColor": "848ef9",
-    "category": "utilities",
-    "version" : "1.1.3",
-    "versionDate" : "2024-11-02",
-    "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.1.3/feather_v1.1.3.tipa",
-    "size": 12496896,
-    "title": "Feather (TrollStore)",
-    "url": "https://github.com/khcrysalis/Feather/",
-    "versions" : [
-      {
-        "version" : "1.0.5",
-        "date" : "2024-10-30",
-        "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0.5/feather_v1.0.5.tipa",
-        "size": 12375230
-      },
-      {
-        "version" : "1.1.2",
-        "date" : "2024-11-01",
-        "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.1.2/feather_v1.1.2.tipa",
-        "size": 13107200
-      },
-      {
-        "version" : "1.1.3",
-        "date" : "2024-11-02",
-        "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.1.3/feather_v1.1.3.tipa",
-        "size": 12496896
-      }
-    ]
-  },
-  {
-    "beta": false,
-    "name" : "Feather (TrollStore) v1.0.5",
-    "bundleIdentifier": "kh.crysalis.featherts105",
-    "developerName" : "Samara",
-    "subtitle": "On-device signing application",
-    "description": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\nStatus: ✅🔥🔵",
-    "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\nStatus: ✅🔥🔵",
-    "iconURL": "https://storage.omnidev.org/feather-au.png",
-    "tintColor": "848ef9",
-    "category": "utilities",
-    "version" : "1.0.5",
-    "versionDate" : "2024-10-30",
-    "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0.5/feather_v1.0.5.tipa",
-    "size": 12375230,
-    "title": "Feather (TrollStore) v1.0.5",
-    "url": "https://github.com/khcrysalis/Feather/"
-  },
-  {
-    "beta": false,
-    "name" : "Feather (TrollStore) v1.1.2",
-    "bundleIdentifier": "kh.crysalis.featherts112",
-    "developerName" : "Samara",
-    "subtitle": "On-device signing application",
-    "description": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\nStatus: ✅🔥🔵",
-    "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\nStatus: ✅🔥🔵",
-    "iconURL": "https://storage.omnidev.org/feather-au.png",
-    "tintColor": "848ef9",
-    "category": "utilities",
-    "version" : "1.1.2",
-    "versionDate" : "2024-11-01",
-    "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.1.2/feather_v1.1.2.tipa",
-    "size": 13107200,
-    "title": "Feather (TrollStore) v1.1.2",
-    "url": "https://github.com/khcrysalis/Feather/"
-  },
-  {
-    "beta": false,
-    "name" : "Feather (TrollStore) v1.1.3",
-    "bundleIdentifier": "kh.crysalis.featherts113",
-    "developerName" : "Samara",
-    "subtitle": "On-device signing application",
-    "description": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\nStatus: ✅🔥🔵",
-    "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\nStatus: ✅🔥🔵",
-    "iconURL": "https://storage.omnidev.org/feather-au.png",
-    "tintColor": "848ef9",
-    "category": "utilities",
-    "version" : "1.1.3",
-    "versionDate" : "2024-11-01",
-    "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.1.3/feather_v1.1.3.tipa",
-    "size": 12496896,
-    "title": "Feather (TrollStore) v1.1.3",
     "url": "https://github.com/khcrysalis/Feather/"
   },
   {
