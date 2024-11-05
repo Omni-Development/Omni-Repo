@@ -810,8 +810,8 @@
     },
     {
       "beta": false,
-      "name" : "Swiftgram",
-      "bundleIdentifier": "app.swiftgram.ios",
+      "name" : "Swiftgram v11.2",
+      "bundleIdentifier": "app.swiftgram.ios112",
       "developerName" : "Akentech Ltd",
       "subtitle": "Swiftgram - Telegram for iOS Supercharged",
       "description": "Supercharged Telegram experience — unlocked, feature-rich, secure messaging.\nStatus: ✅🔥",
@@ -823,7 +823,7 @@
       "versionDate" : "2024-11-05",
       "downloadURL": "https://storage.omnidev.org/app_swiftgram_ios_11_2-a4.ipa",
       "size": 73510912,
-      "title": "Swiftgram",
+      "title": "Swiftgram v11.2",
       "url": "https://swiftgram.app/"
     },
     {
