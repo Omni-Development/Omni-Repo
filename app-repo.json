@@ -1344,6 +1344,13 @@
     "url": "https://epicgames.com",
     "versions" : [
       {
+        "version": "32.00.2",
+        "date" : "2024-11-06",
+        "localizedDescription": "* Allow editing files from the Files app\n* Remove Device Restriction",
+        "downloadURL": "https://storage.omnidev.org/Fortnite_32_00_2-Dt.ipa",
+        "size": 251150336
+      },
+      {
         "version": "31.41",
         "date" : "2024-11-01",
         "downloadURL": "https://ipa.omnidev.org/api/file/2118158e-b83f-4757-86cd-fc75fbdb7358/download",
@@ -1354,13 +1361,6 @@
         "date" : "2024-11-04",
         "downloadURL": "https://storage.omnidev.org/Fortnite_32_00-Mi.ipa",
         "size": 251158528
-      },
-      {
-        "version": "32.00.2",
-        "date" : "2024-11-06",
-        "localizedDescription": "* Allow editing files from the Files app\n* Remove Device Restriction",
-        "downloadURL": "https://storage.omnidev.org/Fortnite_32_00_2-Dt.ipa",
-        "size": 251150336
       }
     ]
   },
