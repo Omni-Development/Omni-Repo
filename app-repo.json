@@ -1492,54 +1492,6 @@
     "size": 103674391
   },
   {
-    "name": "Clip",
-    "bundleIdentifier": "com.rileytestut.Clip",
-    "subtitle": "Manage your clipboard history with ease.",
-    "developerName": "Riley Testut",
-    "version": "1.1",
-    "date": "2024-06-05T12:00:00-05:00",
-    "downloadURL": "https://storage.omnidev.org/clip1_1-o7.ipa",
-    "localizedDescription": "Clip is a simple clipboard manager for iOS. \n\nUnlike other clipboard managers, Clip can continue monitoring your clipboard while in the background. No longer do you need to remember to manually open or share to an app to save your clipboard; just copy and paste as you would normally do, and Clip will have your back.\n\nIn addition to background monitoring, Clip also has these features:\n\n• Save text, URLs, and images copied to the clipboard.\n• Copy, delete, or share any clippings saved to Clip.\n• Customizable history limit.\n\nDownload Clip today, and never worry about losing your clipboard again!\nStatus: ✅",
-    "iconURL": "https://storage.omnidev.org/63391981_5326f800_c37a_11e9_99d8_760fd06bb601-7n.png",
-    "tintColor": "EC008C",
-    "size": 601183,
-    "category": "utilities",
-    "versions": [
-      {
-        "version": "1.1",
-        "date": "2024-06-05T12:00:00-05:00",
-        "localizedDescription": "• Switches to using location services to run in background\n• Improves reading clipboard on iOS 17",
-        "downloadURL": "https://storage.omnidev.org/clip1_1-o7.ipa",
-        "size": 601183
-      }
-    ]
-  },
-  {
-    "beta": false,
-    "bundleIdentifier": "com.rileytestut.Delta",
-    "developerName": "Riley Testut",
-    "subtitle": "Classic games in your pocket.",
-    "description": "Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.\nStatus: ✅",
-    "localizedDescription": "Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.\nStatus: ✅",
-    "iconURL": "https://storage.omnidev.org/Delta4-c3.png",
-    "tintColor": "8A28F7",
-    "category": "games",
-    "version": "1.6",
-    "versionDate" : "2024-11-06",
-    "downloadURL": "https://storage.omnidev.org/Delta_1_6-uw.ipa",
-    "size": 46319655,
-    "title": "Delta",
-    "url": "https://github.com/rileytestut/Delta",
-    "versions" : [
-      {
-        "version": "1.6",
-        "date" : "2024-11-06",
-        "downloadURL": "https://storage.omnidev.org/Delta_1_6-uw.ipa",
-        "size": 46319655
-      }
-    ]
-  },
-  {
     "name": "Instagram Regram", 
     "bundleIdentifier": "com.burbn.instagram", 
     "versionDate": "2024-09-25",
