@@ -1366,6 +1366,32 @@
   },
   {
     "beta": false,
+    "name" : "Dead Cells+",
+    "bundleIdentifier": "com.playdigious.deadcells.applearcade",
+    "developerName" : "Motion Twin and Evil Empire",
+    "subtitle": "Dead Cells+ - Dead Cells but with all DLCS",
+    "description": "Dead Cells is a 2018 roguelike-Metroidvania game developed by Motion Twin and Evil Empire, and published by Motion Twin. The player takes the role of an amorphous creature called the Prisoner. As the Prisoner, the player must fight their way out of a diseased island in order to slay the island's King.\nStatus: ✅🌟",
+    "localizedDescription": "Dead Cells is a 2018 roguelike-Metroidvania game developed by Motion Twin and Evil Empire, and published by Motion Twin. The player takes the role of an amorphous creature called the Prisoner. As the Prisoner, the player must fight their way out of a diseased island in order to slay the island's King.\nStatus: ✅🌟",
+    "iconURL": "https://storage.omnidev.org/Dead_Cells_768x768-VH.png",
+    "tintColor": "08f9f9",
+    "category": "games",
+    "version": "3.3.2",
+    "versionDate" : "2024-11-06",
+    "downloadURL": "https://storage.omnidev.org/Dead_Cells_plus_v3_3_2-bd.ipa",
+    "size": 1369145344,
+    "title": "Dead Cells+",
+    "url": "https://github.com/localsend/localsend",
+    "versions" : [
+      {
+        "version": "3.3.2",
+        "date" : "2024-11-06",
+        "downloadURL": "https://storage.omnidev.org/Dead_Cells_plus_v3_3_2-bd.ipad",
+        "size": 1369145344
+      }
+    ]
+  },
+  {
+    "beta": false,
     "name" : "Geometry Dash",
     "bundleIdentifier": "com.robtop.geometryjump",
     "developerName" : "RobTop Games AB",
