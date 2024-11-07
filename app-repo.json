@@ -1007,13 +1007,20 @@
       "iconURL": "https://storage.omnidev.org/spotify-63.png",
       "tintColor": "1ed760",
       "category": "entertainment",
-      "version": "8.9.86/Swift 5.7",
-      "versionDate" : "2024-10-27",
-      "downloadURL": "https://ipa.omnidev.org/api/file/20d77bec-1bea-40f7-9dfb-ba4f58a6fbc0/download",
-      "size": 81833984,
+      "version": "8.9.90/Swift 5.8",
+      "versionDate" : "2024-11-07",
+      "downloadURL": "https://storage.omnidev.org/Eevee_Spotify_5_8_8_9_90-lF.ipa",
+      "size": 95408128,
       "title": "EeveeSpotify",
       "url": "https://github.com/whoeevee/EeveeSpotify",
       "versions" : [
+        {
+          "version": "8.9.90/Swift 5.8",
+          "date" : "2024-11-07",
+          "localizedDescription": "A tweak to get Spotify Premium for free, just like Spotilife.\nStatus: ✅🔥",
+          "downloadURL": "https://storage.omnidev.org/Eevee_Spotify_5_8_8_9_90-lF.ipa",
+          "size": 95408128
+        },
         {
           "version": "8.9.86/Swift 5.7",
           "date" : "2024-10-27",
