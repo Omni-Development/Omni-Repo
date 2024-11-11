@@ -2021,18 +2021,6 @@
     "versionDate": "2024-10-31"
   },
   {
-      "name": "Spotify", 
-      "subtitle": "Eevee the best Spotify tweak.",
-      "bundleIdentifier": "com.spotify.client", 
-      "version": "5.8",
-      "versionDate": "2024-10-02",
-      "size": 50300000, 
-      "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.8/EeveeSpotify-5.8-8.9.90.ipa", 
-      "developerName": "whoeevee", 
-      "localizedDescription": "Spotify injected with EeveeSpotify.", 
-      "iconURL": "https://github.com/usearcticsigner/ESign-Repo/blob/main/icons/com.spotify.client.png?raw=true"
-    },
-    {
       "name": "Procreate Dreams", 
       "subtitle": "Normally $25 now free!",
       "bundleIdentifier": "au.com.savageinteractive.Dream", 
@@ -2091,30 +2079,6 @@
       "developerName": "opa334", 
       "localizedDescription": "Dopamine, the newest jailbreak. (Only supports ios 15 to 16.5.1) ", 
       "iconURL": "data:image/jpeg;base64,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" 
-    },
-    {
-      "name": "Feather", 
-      "subtitle": "A new log-free ipa signer.",
-      "bundleIdentifier": "kh.crysalis.feather", 
-      "version": "1.1.3",
-      "versionDate": "2024-11-01",
-      "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.1.3/feather_v1.1.3.ipa", 
-      "size": 12000000,
-      "developerName": "khcrysalis", 
-      "localizedDescription": "Feather, a new ipa signer. (Not as good as Arctic)", 
-      "iconURL": "https://github.com/khcrysalis/Feather/blob/main/iOS/Icons/Main/Mac%403x.png?raw=true"
-    },
-    {
-      "name": "Scarlet", 
-      "subtitle": "A classic ipa signer.",
-      "bundleIdentifier": "DebianArch.ScarletPersonalXYZZZ", 
-      "version": "1.0.0",
-      "versionDate": "2020-08-14",
-      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/RELEASE/ScarletAlpha.ipa", 
-      "size": 9780000,
-      "developerName": "DebianArch64", 
-      "localizedDescription": "Scarlet, a classic ipa signer that almost everyone has used.", 
-      "iconURL": "https://avatars.githubusercontent.com/u/63203414?v=4"
     },
     {
       "name": "YTMusicUltimate", 
