@@ -2357,30 +2357,6 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.firecore.infuse.png"
     },
     {
-      "name": "DuolingoMax",
-      "subtitle": "A good way to learn.",
-      "bundleIdentifier": "com.duolingo.DuolingoMobile",
-      "version": "7.23.0",
-      "versionDate": "2024-05-27",
-      "size": 113443307,
-      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-27-2024/DuolingoMax-7.23.0.ipa",
-      "developerName": "ArianaMinajj",
-      "localizedDescription": "Duolingo injected with Max.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.duolingo.DuolingoMobile.png"
-    },
-    {
-      "name": "PicsArtPlusPlus",
-      "subtitle": "PicsArt with Plus.",
-      "bundleIdentifier": "com.picsart.studio",
-      "version": "25.0.1",
-      "versionDate": "2024-05-27",
-      "size": 102492411,
-      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/05-27-2024/PicsArtPlusPlus-25.0.1.ipa",
-      "developerName": "zxcvbn",
-      "localizedDescription": "PicsArt with premium features enabled.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.picsart.studio.png"
-    },
-    {
       "name": "InstagramNyx",
       "subtitle": "A good tweak.",
       "bundleIdentifier": "com.burbn.instagram",
