@@ -2103,30 +2103,6 @@
       "developerName": "arichornlover",
       "localizedDescription": "Youtube injected with uYouEnhanced.",
       "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png"  
-    }, 
-    {
-      "name": "YTLitePlus",
-      "subtitle": "An amazing Youtube Tweak.",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "version": "19.42.1",
-      "versionDate": "2024-10-02",
-      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/RELEASE/YTLitePlus.ipa",
-      "size": 127400000,
-      "developerName": "dayanch96",
-      "localizedDescription": "Youtube injected with YTLitePlus.",
-      "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png"  
-    },
-    {
-      "name": "Mangayomi",
-      "subtitle": "A good anime app.",
-      "bundleIdentifier": "com.kodjodevf.mangayomi",
-      "version": "0.3.6",
-      "versionDate": "2024-10-25",
-      "downloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.3.6/Mangayomi-v0.3.6-ios.ipa",
-      "size": 51700000,
-      "developerName": "Aniyomi",
-      "localizedDescription": "Mangayomi is free an open source manga reader and anime streaming cross-platform app inspired by Tachiyomi and Aniyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.kodjodevf.mangayomi.png"
     },
     {
       "name": "BeRealBea",
@@ -2141,18 +2117,6 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
-      "name": "Enmity",
-      "subtitle": "Discord Clients all fall to Enmity.",
-      "bundleIdentifier": "com.hammerandchisel.discord",
-      "version": "2.2.6",
-      "versionDate": "2024-10-25",
-      "downloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.2.6/Enmity.ipa",
-      "size": 98600000,
-      "developerName": "zxcvbn",
-      "localizedDescription": "An amazing Discord Client.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.hammerandchisel.discord.png"
-    },
-    {
       "name": "iPoGo",
       "subtitle": "A good spoofer.",
       "bundleIdentifier": "com.nianticlabs.pokemongo",
@@ -2163,18 +2127,6 @@
       "developerName": "ipogo",
       "localizedDescription": "The BEST Pokemon Go spoofer, waring if you overuse it you can get banned.",
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.nianticlabs.pokemongo.png"
-    },
-    {
-      "name": "PhotomathPlus",
-      "subtitle": "A good way to cheat a test.",
-      "bundleIdentifier": "com.microblink.PhotoMath",
-      "version": "8.35.0",
-      "versionDate": "???",
-      "downloadURL": "https://github.com/usearcticsigner/ESign-Repo/releases/download/RELEASE/PhotoMathPlus_8.35.0.ipa",
-      "size": 14700000,
-      "developerName": "Cypwn",
-      "localizedDescription": "Photomath cracked with plus.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.microblink.PhotoMath.png"
     },
     {
       "name": "Watusi3",
@@ -2189,30 +2141,6 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/net.whatsapp.WhatsApp.png"
     },
     {
-      "name": "BHX",
-      "subtitle": "Twitter is back.",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "version": "4.3",
-      "versionDate": "2024-02-11",
-      "downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/4.3/BHTwitter-sideloaded.ipa",
-      "size": 121000000,
-      "developerName": "BandarHL",
-      "localizedDescription": "X but it has been rebranded to twitter.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.atebits.Tweetie2.png"
-    },
-    {
-      "name": "iTorrent",
-      "subtitle": "The best iOS Torrent Player.",
-      "bundleIdentifier": "ru.nonamedude.iTorrent",
-      "version": "2.0.11-3",
-      "versionDate": "2024-09-30",
-      "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v2.0.11-3/iTorrent.ipa",
-      "size": 6680000,
-      "developerName": "XITRIX",
-      "localizedDescription": "The only Torrent player on iOS, it can even pirate games.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/ru.nonamedude.iTorrent.png"
-    },
-    {
       "name": "nPlayerPlus",
       "subtitle": "A good player.",
       "bundleIdentifier": "com.newin.nplayer",
@@ -2223,18 +2151,6 @@
       "developerName": "Pdalife",
       "localizedDescription": "nPlayer hacked with plus.",
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.newin.nplayer.png"
-    },
-    {
-      "name": "Apollo",
-      "subtitle": "Clients for Reddit.",
-      "bundleIdentifier": "com.christianselig.Apollo",
-      "version": "1.1.7",
-      "versionDate": "2024-05-25",
-      "downloadURL": "https://github.com/Balackburn/Apollo/releases/download/v1.15.11-1.1.7/Apollo-1.15.11_improvedcustomapi-1.1.7.ipa",
-      "size": 63800000,
-      "developerName": "zxcvbn",
-      "localizedDescription": "Apollo, the best Reddit Client.",
-      "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.christianselig.Apollo.png"
     },
     {
       "name": "Misaka",
