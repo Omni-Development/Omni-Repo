@@ -3906,6 +3906,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/tv.twitch.png"
     },
     {
+      "beta": false,
       "name": "DoorDash",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "doordash.DoorDashConsumer",
@@ -3918,6 +3919,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/doordash.DoorDashConsumer.png"
     },
     {
+      "beta": false,
       "name": "DoorDashDasher",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.doordash.dasher",
@@ -3930,6 +3932,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.doordash.dasher.png"
     },
     {
+      "beta": false,
       "name": "AppIndex",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.serena.AppIndex",
@@ -3942,6 +3945,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.serena.AppIndex.png"
     },
     {
+      "beta": false,
       "name": "InstagramDark",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.burbn.instagram",
@@ -3954,6 +3958,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.burbn.instagram.png"
     },
     {
+      "beta": false,
       "name": "BeRealUnblur",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "AlexisBarreyat.BeReal",
@@ -3966,6 +3971,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
+      "beta": false,
       "name": "Tailor",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.foundry63.tailor",
@@ -3978,6 +3984,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.foundry63.tailor.png"
     },
     {
+      "beta": false,
       "name": "WDBFontOverwrite",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.ginsu.WDBFontOverwrite",
@@ -3990,6 +3997,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.ginsu.WDBFontOverwrite.png"
     },
     {
+      "beta": false,
       "name": "CineMate",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.cinemtt.apt",
@@ -4002,6 +4010,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.cinemtt.apt.png"
     },
     {
+      "beta": false,
       "name": "LikeeLRD",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "video.like",
@@ -4014,6 +4023,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/video.like.png"
     },
     {
+      "beta": false,
       "name": "StatusMagic",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.avangelista.StatusMagic",
@@ -4026,6 +4036,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.avangelista.StatusMagic.png"
     },
     {
+      "beta": false,
       "name": "FacebookTxC",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.facebook.Facebook",
@@ -4038,6 +4049,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.facebook.Facebook.png"
     },
     {
+      "beta": false,
       "name": "CarTube",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.avangelista.CarTube",
@@ -4050,6 +4062,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.avangelista.CarTube.png"
     },
     {
+      "beta": false,
       "name": "FileSwitcherX",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.straight-tamago.FileSwitcherX",
@@ -4062,6 +4075,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.straight-tamago.FileSwitcherX.png"
     },
     {
+      "beta": false,
       "name": "DramaFlix",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.dramaflix.co",
@@ -4074,6 +4088,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.dramaflix.co.png"
     },
     {
+      "beta": false,
       "name": "FindUnfollow",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "co.iinvent.whounfollowed",
@@ -4086,6 +4101,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/co.iinvent.whounfollowed.png"
     },
     {
+      "beta": false,
       "name": "TrollMods",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "io.hex36.TrollMods",
@@ -4098,6 +4114,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/io.hex36.TrollMods.png"
     },
     {
+      "beta": false,
       "name": "DPixelGPT",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.dpixel.chatgpt",
@@ -4110,6 +4127,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.dpixel.chatgpt.png"
     },
     {
+      "beta": false,
       "name": "TikWipe",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.tikwipe.tikwipe",
@@ -4122,6 +4140,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.tikwipe.tikwipe.png"
     },
     {
+      "beta": false,
       "name": "TrollMods",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "io.hex36.TrollMods",
@@ -4134,6 +4153,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/io.hex36.TrollMods.png"
     },
     {
+      "beta": false,
       "name": "TrollLockReborn",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "org.haxi0.TrollLock",
@@ -4146,6 +4166,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/org.haxi0.TrollLock.png"
     },
     {
+      "beta": false,
       "name": "ReFacePro",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.neocortext.doublicatapp",
@@ -4158,6 +4179,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.neocortext.doublicatapp.png"
     },
     {
+      "beta": false,
       "name": "AsTools",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "rn.notes.best",
@@ -4170,6 +4192,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/rn.notes.best.png"
     },
     {
+      "beta": false,
       "name": "Pandolife",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.pandora",
@@ -4182,6 +4205,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.pandora.png"
     },
     {
+      "beta": false,
       "name": "TrollNonce",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.opa334.trollnonce",
@@ -4194,6 +4218,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.opa334.trollnonce.png"
     },
     {
+      "beta": false,
       "name": "DebToIPA",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "net.sourceloc.deb-to-ipa-app",
@@ -4206,6 +4231,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/net.sourceloc.deb-to-ipa-app.png"
     },
     {
+      "beta": false,
       "name": "IPSW",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.hyperixa.IPSW",
@@ -4218,6 +4244,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.hyperixa.IPSW.png"
     },
     {
+      "beta": false,
       "name": "MobileTSS",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "luca.MobileTSS",
@@ -4230,6 +4257,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/luca.MobileTSS.png"
     },
     {
+      "beta": false,
       "name": "ResolutionSetter",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.haoict.ResolutionSetterSwift",
@@ -4242,6 +4270,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.haoict.ResolutionSetterSwift.png"
     },
     {
+      "beta": false,
       "name": "TrollSign",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.AppInstalleriOS.TrollSign",
@@ -4254,6 +4283,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.AppInstalleriOS.TrollSign.png"
     },
     {
+      "beta": false,
       "name": "UberEats",
       "subtitle": "Num, Num, Num.",
       "bundleIdentifier": "com.ubercab.UberEats",
@@ -4266,6 +4296,7 @@
       "iconURL": "https://raw.githubusercontent.com/usearcticsigner/ESign-Repo/main/icons/com.ubercab.UberEats.png"
     },
     {
+      "beta": false,
       "name": "ModMyIPA",
       "subtitle": "An ipa modder.",
       "bundleIdentifier": "com.powen.ModMyIPA",
