@@ -1171,6 +1171,12 @@
     "url": "https://github.com/khcrysalis/Feather/",
     "versions" : [
       {
+        "version" : "1.1.3",
+        "date" : "2024-11-02",
+        "downloadURL": "https://storage.omnidev.org/feather_v1_1_3-Xp.ipa",
+        "size": 12496896
+      },
+      {
         "version" : "1.0.5",
         "date" : "2024-10-30",
         "downloadURL": "https://storage.omnidev.org/feather_v1_0_5-e6.ipa",
@@ -1181,12 +1187,6 @@
         "date" : "2024-11-01",
         "downloadURL": "https://storage.omnidev.org/feather_v1_1_2-IW.ipa",
         "size": 13107200
-      },
-      {
-        "version" : "1.1.3",
-        "date" : "2024-11-02",
-        "downloadURL": "https://storage.omnidev.org/feather_v1_1_3-Xp.ipa",
-        "size": 12496896
       }
     ]
   },
@@ -1613,13 +1613,19 @@
     "iconURL": "https://storage.omnidev.org/enmity-qy.png",
     "tintColor": "433dac",
     "category": "social",
-    "version": "2.2.6",
-    "date" : "2024-11-05",
-    "downloadURL": "https://storage.omnidev.org/Enmity_1-Zn.ipa",
-    "size": 103809024,
+    "version": "2.2.6-c91537b",
+    "date" : "2024-11-13",
+    "downloadURL": "https://storage.omnidev.org/Enmity_c91537b-OZ.ipa",
+    "size": 101167104,
     "title": "Enmity",
     "url": "https://enmity.unbound.rip/",
     "versions" : [
+      {
+        "version": "2.2.6-c91537b",
+        "date" : "2024-11-13",
+        "downloadURL": "https://storage.omnidev.org/Enmity_c91537b-OZ.ipa",
+        "size": 101167104
+      },
       {
         "version": "2.2.6",
         "date" : "2024-11-05",
