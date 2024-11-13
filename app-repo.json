@@ -1343,13 +1343,20 @@
     "iconURL": "https://storage.omnidev.org/Fortnite_Main-Mj.png",
     "tintColor": "b036e6",
     "category": "games",
-    "version": "32.00.2",
-    "versionDate" : "2024-11-06",
-    "downloadURL": "https://storage.omnidev.org/Fortnite_32_00_2-Dt.ipa",
-    "size": 251150336,
+    "version": "32.10.1",
+    "versionDate" : "2024-11-13",
+    "downloadURL": "https://storage.omnidev.org/Fortnite_32_10_1-8F.ipa",
+    "size": 252227584,
     "title": "Fortnite",
     "url": "https://epicgames.com",
     "versions" : [
+      {
+        "version": "32.10.1",
+        "date" : "2024-11-13",
+        "localizedDescription": "* Allow editing files from the Files app\n* Remove Device Restriction",
+        "downloadURL": "https://storage.omnidev.org/Fortnite_32_10_1-8F.ipa",
+        "size": 252227584
+      },
       {
         "version": "32.00.2",
         "date" : "2024-11-06",
