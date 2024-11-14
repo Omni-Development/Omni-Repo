@@ -1545,31 +1545,17 @@
     "iconURL": "https://storage.omnidev.org/IMG_5319-eS.png" 
   },
   {
-    "beta": false,
-    "name" : "iTorrent",
+    "name": "iTorrent", 
     "bundleIdentifier": "com.xitrix.iTorrent2",
-    "developerName" : "XITRIX",
     "subtitle": "Torrent client for iOS!",
-    "description": "Torrent client for iOS!\n\nStatus: ✅🌟🔥",
-    "localizedDescription": "Torrent client for iOS!\n\nStatus: ✅🌟🔥", 
-    "iconURL": "https://storage.omnidev.org/IMG_4981-8z.png" ,
-    "tintColor": "f72738",
-    "category": "utilities",
-    "version": "2.0.12-1",
     "versionDate": "2024-11-13",
+    "version": "2.0.12-1",
+    "category": "utilities",
+    "size": 7004160, 
     "downloadURL": "https://storage.omnidev.org/i_Torrent_1-KJ.ipa",
-    "size": 7004160,
-    "title": "iTorrent",
-    "url": "https://github.com/XITRIX/iTorrent",
-    "versions" : [
-      {
-        "version": "2.0.12-1",
-        "date": "2024-11-13",
-        "localizedDescription": "* Default port setting now work properly\n* Navigation glitches leading to unresponsive UI fixed\n* Improvements for Chinese translation",
-        "downloadURL": "https://storage.omnidev.org/i_Torrent_1-KJ.ipa",
-        "size": 7004160
-      }
-    ]
+    "developerName": "XITRIX", 
+    "localizedDescription": "Torrent client for iOS!\n\nStatus: ✅🌟🔥", 
+    "iconURL": "https://storage.omnidev.org/IMG_4981-8z.png" 
   },
   {
     "name": "Null's Brawl", 
