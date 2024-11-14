@@ -1564,7 +1564,7 @@
     "versions" : [
       {
         "version": "2.0.12-1",
-        "versionDate": "2024-11-13",
+        "date": "2024-11-13",
         "localizedDescription": "* Default port setting now work properly\n* Navigation glitches leading to unresponsive UI fixed\n* Improvements for Chinese translation",
         "downloadURL": "https://storage.omnidev.org/i_Torrent_1-KJ.ipa",
         "size": 7004160
