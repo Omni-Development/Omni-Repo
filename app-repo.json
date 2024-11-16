@@ -1243,20 +1243,44 @@
     "iconURL": "https://storage.omnidev.org/livecontainer-ZM.png",
     "tintColor": "0784fc",
     "category": "utilities",
-    "version": "2.1.2",
-    "versionDate" : "2024-10-30",
-    "downloadURL": "https://storage.omnidev.org/com_kdt_livecontainer_2_1_2-3Z.ipa",
-    "size": 194586,
+    "version": "8b6e503",
+    "versionDate" : "2024-11-16",
+    "downloadURL": "https://storage.omnidev.org/com_kdt_livecontainer8b6e503-b3.ipa",
+    "size": 921600,
     "title": "LiveContainer",
     "url": "https://github.com/khanhduytran0/LiveContainer",
     "versions" : [
       {
-        "version": "2.1.2",
-        "date" : "2024-10-30",
-        "downloadURL": "https://storage.omnidev.org/com_kdt_livecontainer_2_1_2-3Z.ipa",
-        "size": 194586
+        "version": "8b6e503",
+        "date" : "2024-11-16",
+        "downloadURL": "https://storage.omnidev.org/com_kdt_livecontainer8b6e503-b3.ipa",
+        "size": 921600
+      },
+      {
+      "version": "2.1.2",
+      "date" : "2024-10-30",
+      "downloadURL": "https://storage.omnidev.org/com_kdt_livecontainer_2_1_2-3Z.ipa",
+      "size": 194586
       }
     ]
+  },
+  {
+    "beta": false,
+    "name" : "LiveContainer Commit 8b6e503",
+    "bundleIdentifier": "com.kdt.livecontainer8b6e503",
+    "developerName" : "khanhduytran0",
+    "subtitle": "Run iOS app without actually installing it!",
+    "description": "Run iOS app without actually installing it!\nStatus: ✅🔥",
+    "localizedDescription": " Run iOS app without actually installing it!\nStatus: ✅🔥",
+    "iconURL": "https://storage.omnidev.org/livecontainer-ZM.png",
+    "tintColor": "0784fc",
+    "category": "utilities",
+    "version": "8b6e503",
+    "versionDate" : "2024-11-16",
+    "downloadURL": "https://storage.omnidev.org/com_kdt_livecontainer8b6e503-b3.ipa",
+    "size": 921600,
+    "title": "LiveContainer Commit 8b6e503",
+    "url": "https://github.com/khanhduytran0/LiveContainer"
   },
   {
     "beta": false,
