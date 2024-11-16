@@ -1119,13 +1119,19 @@
     "iconURL": "https://storage.omnidev.org/osu-Wu.png",
     "tintColor": "f863a6",
     "category": "games",
-    "version" : "2024.1009.1",
-    "versionDate" : "2024-10-29",
-    "downloadURL": "https://storage.omnidev.org/osu_i_OS_2024_1009_1-G8.ipa",
-    "size": 196280320,
+    "version" : "2024.1115.3",
+    "versionDate" : "2024-11-16",
+    "downloadURL": "https://storage.omnidev.org/osu2024_1115_3-TG.ipa",
+    "size": 195981312,
     "title": "Osu!lazer",
     "url": "https://github.com/ppy/osu/",
     "versions" : [
+      {
+        "version" : "2024.1115.3",
+        "date" : "2024-11-16",
+        "downloadURL": "https://storage.omnidev.org/osu2024_1115_3-TG.ipa",
+        "size": 195981312
+      }, 
       {
         "version" : "2024.1009.1",
         "date" : "2024-10-29",
@@ -1133,24 +1139,6 @@
         "size": 196280320
       }
     ]
-  },
-  {
-    "beta": true,
-    "name" : "Osu!lazer 2024.1009.1",
-    "bundleIdentifier": "sh.ppy.osu!lazer202410091",
-    "developerName" : "peppy",
-    "subtitle": "Osu!lazer iOS - Play Osu! but with a touchscreen",
-    "description": "rhythm is just a *click* away!\nStatus: ✅🔥",
-    "localizedDescription": "rhythm is just a *click* away!\nStatus: ✅🔥",
-    "iconURL": "https://storage.omnidev.org/osu-Wu.png",
-    "tintColor": "f863a6",
-    "category": "games",
-    "version" : "2024.1009.1",
-    "versionDate" : "2024-10-29",
-    "downloadURL": "https://storage.omnidev.org/osu_i_OS_2024_1009_1-G8.ipa",
-    "size": 196280320,
-    "title": "Osu!lazer",
-    "url": "https://github.com/ppy/osu/"
   },
   {
     "beta": false,
