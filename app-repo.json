@@ -1284,6 +1284,56 @@
   },
   {
     "beta": false,
+    "name" : "Flight Tracker +",
+    "bundleIdentifier": "com.iaftt.flightplusfree",
+    "developerName" : "Impala Studios",
+    "subtitle": "Track Flights + Airlines 24 h.",
+    "description": "Ladies and gentlemen, this is The Flight Tracker speaking. \nWelcome aboard the World’s most accurate and reliable flight-tracking app. Trusted by 8M satisfied travelers.\nStatus: ✅",
+    "localizedDescription": "Ladies and gentlemen, this is The Flight Tracker speaking. \nWelcome aboard the World’s most accurate and reliable flight-tracking app. Trusted by 8M satisfied travelers.\nStatus: ✅",
+    "iconURL": "https://storage.omnidev.org/512x512bb_5-uI.png",
+    "tintColor": "0077ff",
+    "category": "utilities",
+    "version": "8.2.0",
+    "versionDate" : "2024-11-17",
+    "downloadURL": "https://storage.omnidev.org/com_iaftt_flightplusfree_8_2_0_eeveedecrypter-Wz.ipa",
+    "size": 153665536,
+    "title": "Flight Tracker +",
+    "versions" : [
+      {
+        "version": "8.2.0",
+        "date" : "2024-11-17",
+        "downloadURL": "https://storage.omnidev.org/com_iaftt_flightplusfree_8_2_0_eeveedecrypter-Wz.ipa",
+        "size": 153665536
+      }
+    ]
+  },
+  {
+    "beta": false,
+    "name" : "Procreate Pocket",
+    "bundleIdentifier": "au.com.savageinteractive.procreate-pocket",
+    "developerName" : "Savage Interactive Pty Ltd",
+    "subtitle": "Sketch and Paint on iPhone",
+    "description": "Procreate Pocket has everything you need to create expressive sketches, rich paintings, gorgeous illustrations, and beautiful animations.\nStatus: ✅",
+    "localizedDescription": "Procreate Pocket has everything you need to create expressive sketches, rich paintings, gorgeous illustrations, and beautiful animations.\nStatus: ✅🔥",
+    "iconURL": "https://storage.omnidev.org/procreate_pocket_icon_white-1c.png",
+    "tintColor": "ff6ada",
+    "category": "utilities",
+    "version": "4.0.9",
+    "versionDate" : "2024-11-17",
+    "downloadURL": "https://storage.omnidev.org/Procreate_Pocket-4z.ipa",
+    "size": 301252608,
+    "title": "Procreate Pocket",
+    "versions" : [
+      {
+        "version": "4.0.9",
+        "date" : "2024-11-17",
+        "downloadURL": "https://storage.omnidev.org/Procreate_Pocket-4z.ipa",
+        "size": 301252608
+      }
+    ]
+  },
+  {
+    "beta": false,
     "name" : "LiveContainer",
     "bundleIdentifier": "com.kdt.livecontainer",
     "developerName" : "khanhduytran0",
