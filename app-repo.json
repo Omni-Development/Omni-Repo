@@ -1234,6 +1234,56 @@
   },
   {
     "beta": false,
+    "name" : "Charlie the Steak",
+    "bundleIdentifier": "com.dynamicdust.CharlieTheSteak",
+    "developerName" : "DynamicDust",
+    "subtitle": "Charlie the Steak - Stress-Breaker",
+    "description": "Charlie The Steak is an ultimate stress-breaker. It is a scapegoat we have created just for you, so you don’t hurt yourself are someone else when you are angry. Don’t worry, he’s not a real person nor he is a living creature. He is a steak!\nStatus: ✅",
+    "localizedDescription": "Charlie The Steak is an ultimate stress-breaker. It is a scapegoat we have created just for you, so you don’t hurt yourself are someone else when you are angry. Don’t worry, he’s not a real person nor he is a living creature. He is a steak!\nStatus: ✅",
+    "iconURL": "https://storage.omnidev.org/download_1_1-HD.png",
+    "tintColor": "4f0205",
+    "category": "games",
+    "version": "1.2",
+    "versionDate" : "2024-11-17",
+    "downloadURL": "https://storage.omnidev.org/Charlie_the_Steak_1_2_495_64_bit_644918861_812715227_Cracked-Nk.ipa",
+    "size": 123207680,
+    "title": "Charlie the Steak",
+    "versions" : [
+      {
+      "version": "1.2",
+      "date" : "2024-11-17",
+      "downloadURL": "https://storage.omnidev.org/Charlie_the_Steak_1_2_495_64_bit_644918861_812715227_Cracked-Nk.ipa",
+      "size": 123207680
+      }
+    ]
+  },
+  {
+    "beta": false,
+    "name" : "Cash App (FAKE)",
+    "bundleIdentifier": "om.devjash-Capp-App",
+    "developerName" : "devjash",
+    "subtitle": "Fake cash app prank",
+    "description": "Fake cash app prank\nStatus: ✅",
+    "localizedDescription": "Fake cash app prank\nStatus: ✅",
+    "iconURL": "https://storage.omnidev.org/Square_Cash_app_logopng-ab.png",
+    "tintColor": "01d633",
+    "category": "utilities",
+    "version": "4",
+    "versionDate" : "2024-11-17",
+    "downloadURL": "https://storage.omnidev.org/Cash_App_V3_esign-HW.ipa",
+    "size": 16207872,
+    "title": "Cash App (FAKE)",
+    "versions" : [
+      {
+      "version": "4",
+      "date" : "2024-11-17",
+      "downloadURL": "https://storage.omnidev.org/Cash_App_V3_esign-HW.ipa",
+      "size": 16207872
+      }
+    ]
+  },
+  {
+    "beta": false,
     "name" : "LiveContainer",
     "bundleIdentifier": "com.kdt.livecontainer",
     "developerName" : "khanhduytran0",
