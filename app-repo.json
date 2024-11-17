@@ -1234,32 +1234,6 @@
   },
   {
     "beta": false,
-    "name" : "Why So Furious Portal",
-    "bundleIdentifier": "whysoooofurious.portal",
-    "developerName" : "WSF",
-    "subtitle": "Portal made by WSF",
-    "description": "Download portal made by WSF\nStatus: ✅🔥",
-    "localizedDescription": "Download portal made by WSF\nStatus: ✅🔥",
-    "iconURL": "https://storage.omnidev.org/wsf-Kg.png",
-    "tintColor": "b6b4e8",
-    "category": "utilities",
-    "version": "1.4.3",
-    "versionDate" : "2024-11-16",
-    "downloadURL": "https://storage.omnidev.org/whysofuriousportal-Wk.ipa",
-    "size": 4186112,
-    "title": "Why So Furious Portal",
-    "url": "https://whysoooofurious.netlify.app/",
-    "versions" : [
-      {
-        "version": "1.4.3",
-        "date" : "2024-11-16",
-        "downloadURL": "https://storage.omnidev.org/whysofuriousportal-Wk.ipa",
-        "size": 4186112
-      }
-    ]
-  },
-  {
-    "beta": false,
     "name" : "LiveContainer",
     "bundleIdentifier": "com.kdt.livecontainer",
     "developerName" : "khanhduytran0",
